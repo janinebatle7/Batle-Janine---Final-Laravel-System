@@ -1,5 +1,12 @@
 "Clara’s Best: Web-based Ordering and Reservation System"
 
+## admin accounts
+email: admin@gmail.com
+pass: admin123
+
+## staff account
+email: staff@gmail.com
+pass: staff123
 
 
 System Description:
